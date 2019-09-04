@@ -14,19 +14,17 @@ sidebar:
     # Sidebar links
     email: emilipapazisi@gmail.com
     phone: 6972608921
-    twitter: '@emilyinblack'
 
-    languages:
+    γλωσσες:
       - idiom: Αγγλικά
         level: Γ1
 
       - idiom: Γερμανικά
         level: Γ1
 
-    interests:
+    ενδιαφεροντα:
       - item: Θέατρο
       - item: Αρθρογραφία
-      - item: Φωτογραφία
       - item: Blogging
       
 career-profile:
