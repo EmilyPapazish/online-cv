@@ -45,18 +45,14 @@ experiences:
       time: 2014 - 2015
       company: Συμπόσιο Τέχνης Δρυάδες
       details: |
-        Προετοιμασία των απαραιτήτων για τους συμμετέχοντες, δημιουργία καρτελών για έσοδα-έξοδα του σεμιναρίου, οργάνωση του προγράμματος του σεμιναρίου, της διαμονής και δραστηριότητας των συμμετεχόντων, δημιουργία αφίσας και διαφημιστικών εντύπων, προώθηση του σεμιναρίου, προετοιμασία αποδείξεων και των απαραίτητων εγγράφων για τη σωστή διαξαγωγή του σεμιναρίου.
+        Προετοιμασία των απαραιτήτων για τους συμμετέχοντες, δημιουργία καρτελών και καταστάσεων για έσοδα-έξοδα του σεμιναρίου, οργάνωση του προγράμματος του σεμιναρίου, της διαμονής και δραστηριότητας των συμμετεχόντων, δημιουργία αφίσας και διαφημιστικών εντύπων, προώθηση του σεμιναρίου, προετοιμασία αποδείξεων και των απαραίτητων εγγράφων για τη σωστή διαξαγωγή του σεμιναρίου.
 
 
     - role: Πωλήτρια
       time: 2017 - 2019
       company: Υπαίθρια αγορά
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Στήσιμο εμπορευμάτων (παπουτσιών ανδρικών, γυναικείων, παιδικών), πώληση και προώθηση, διαχείριση ταμείου  
 
 skills:
     title: Skills &amp; Proficiency
@@ -68,9 +64,12 @@ skills:
       - name: Photoshop
         level: 70%
 
-      - name: Google adwords / Facebook ads
-        level: 700%
-
+      - name: Google adwords
+        level: 50%
+      
+      - name: Facebook Ads
+        level: 50%  
+        
       - name: Διαχείρηση Wordpress & Magento
         level: 90%
 
