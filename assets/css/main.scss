@@ -6,3 +6,5 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+body .sidebar-wrapper .avatar{border-radius: 0;filter: grayscale(1);}
