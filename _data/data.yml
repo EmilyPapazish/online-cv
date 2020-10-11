@@ -1,37 +1,5 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Έμιλυ Παπαζήση
-    tagline: Διεθνολόγος
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: emilypapazisi@gmail.com
-    phone: 6985802132
-
-    languages:
-      - idiom: Αγγλικά
-        level: Γ1
-
-      - idiom: Γερμανικά
-        level: Γ1
-
-    interests:
-      - item: Θέατρο
-      - item: Αρθρογραφία
-      - item: Blogging
-     
-      
-career-profile:
-    title: Profile
-    summary: |
-
-
-
-sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: International, European and Regional Studies
 
     # Profile information
